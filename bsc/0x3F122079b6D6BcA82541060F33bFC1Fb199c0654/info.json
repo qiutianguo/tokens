@@ -1,0 +1,11 @@
+{
+ "name": "ACG",
+ "website": "https://www.acgpop.com",
+ "description": "Animation Comic Game",
+ "explorer": "https://bscscan.com/token/0x3F122079b6D6BcA82541060F33bFC1Fb199c0654",
+ "type": "BEP20",
+ "symbol": "ACG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x3F122079b6D6BcA82541060F33bFC1Fb199c0654"
+}
